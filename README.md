@@ -13,6 +13,7 @@ As any other tool, we have a wide range of selection when it comes to text edito
 command is aliased or linked to vim.
 
  **vi modes** 
+ 
 vi works in two modes:
 1. Command mode is where you go around the file, search, delete text, copy paste, replace, ... and give other commands to the vi. Some
 commands start with a : and some are only a keypress.
