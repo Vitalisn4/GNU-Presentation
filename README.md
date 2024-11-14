@@ -262,6 +262,7 @@ This is the most common tool to do simple monitoring of the system. It will upda
 - k kill after asking pid and signal
 
  **free** 
+ 
 The free command will show you info about the system memory. The default is kilobytes but you can change it with -m for megabytes, -g for gigabytes or even -b for bytes. You can also use the -h for human readable. for example free -m
 
  **A general hint:** If your system is using Swap, you have memory issues.
