@@ -308,7 +308,7 @@ A great point about screen (and tmux) is the fact it remains running even after 
 
 **tmux**
 
-Is a screen on steroids! It is not installed by default in most distributions and you have to install it first. The default command prefix is Ctrl+B and after running the tmux new you can issue these:
+It is not installed by default in most distributions and you have to install it first. The default command prefix is Ctrl+B and after running the tmux new you can issue these:
 
 **Key Usage**
 
